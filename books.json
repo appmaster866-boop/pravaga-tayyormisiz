@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "namuna-darslik",
+      "title": "Yo‘l harakati qoidalari darsligi (namuna)",
+      "author": "namuna",
+      "file": "materials/namuna-darslik.pdf",
+      "topics": [
+        { "id": "belgilar", "title": "Yo‘l belgilari", "page": 1 },
+        { "id": "svetofor", "title": "Svetofor va piyodalar", "page": 10 },
+        { "id": "xavfsizlik", "title": "Xavfsizlik qoidalari", "page": 20 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "namuna-1",
+  "demo": true,
+  "questions": [
+    { "id": "n1", "topic": "belgilar", "text": "Uchburchak shaklidagi, qizil hoshiyali belgilar qaysi guruhga kiradi?", "options": ["Ogohlantiruvchi belgilar", "Taqiqlovchi belgilar", "Buyuruvchi belgilar"], "answer": 0 },
+    { "id": "n2", "topic": "belgilar", "text": "Doira shaklidagi, qizil hoshiyali belgilar qaysi guruhga kiradi?", "options": ["Axborot belgilari", "Taqiqlovchi belgilar", "Ogohlantiruvchi belgilar"], "answer": 1 },
+    { "id": "n3", "topic": "belgilar", "text": "Ko‘k doira shaklidagi belgilar odatda nimani bildiradi?", "options": ["Harakatni taqiqlashni", "Xavf haqida ogohlantirishni", "Harakat yo‘nalishi yoki shartini buyurishni"], "answer": 2 },
+    { "id": "n4", "topic": "svetofor", "text": "Svetoforning qizil signalida harakatlanish qanday?", "options": ["Taqiqlanadi", "Faqat tunda mumkin", "Tezlikni pasaytirib mumkin"], "answer": 0 },
+    { "id": "n5", "topic": "svetofor", "text": "Svetoforning yashil signali nimani bildiradi?", "options": ["Harakatni taqiqlaydi", "Harakatlanishga ruxsat beradi", "Faqat piyodalarga ruxsat beradi"], "answer": 1 },
+    { "id": "n6", "topic": "svetofor", "text": "Haydovchi tartibga solinmagan piyodalar o‘tish joyiga yaqinlashganda nima qilishi kerak?", "options": ["Tezlikni oshirib, tez o‘tib ketishi", "Piyodalarga e’tibor bermasdan davom etishi", "Piyodalarga yo‘l berishi"], "answer": 2 },
+    { "id": "n7", "topic": "xavfsizlik", "text": "Haydovchi harakatlanayotganda xavfsizlik kamaridan qachon foydalanishi kerak?", "options": ["Faqat shahardan tashqarida", "Doimo", "Faqat tez yurganda"], "answer": 1 },
+    { "id": "n8", "topic": "xavfsizlik", "text": "Haydovchi charchoq yoki uyquchanlikni sezsa, nima qilishi kerak?", "options": ["Radioni baland qo‘yib haydashda davom etishi", "Xavfsiz joyda to‘xtab dam olishi", "Tezlikni oshirishi"], "answer": 1 }
+  ]
+}
